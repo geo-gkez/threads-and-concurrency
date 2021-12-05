@@ -1,4 +1,4 @@
-package threadsandconcurrency;
+package threadsandconcurrency.intro;
 
 public class TwoSums {
    private  int sum1=0;

@@ -1,4 +1,4 @@
-package threadsandconcurrency;
+package threadsandconcurrency.intro;
 
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;

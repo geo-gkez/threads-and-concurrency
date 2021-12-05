@@ -1,4 +1,4 @@
-package threadsandconcurrency;
+package threadsandconcurrency.intro;
 
 public class NotSynchronizedCounter1 implements Runnable{
     private static int counter = 0;

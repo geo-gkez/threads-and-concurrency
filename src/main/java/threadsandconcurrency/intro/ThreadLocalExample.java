@@ -1,4 +1,4 @@
-package threadsandconcurrency;
+package threadsandconcurrency.intro;
 
 public class ThreadLocalExample {
     public static class MyRunnable implements Runnable{
